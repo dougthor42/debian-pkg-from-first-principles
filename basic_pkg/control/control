@@ -1,0 +1,5 @@
+Package: dougthor42-simple
+Version: 0.0.1-1
+Architecture: all
+Description: A bare-minimum deb file, manually assembled to understand Debian packaging.
+Maintainer: me <me@my-email-domain.some-tld>
